@@ -1,0 +1,7 @@
+
+1- clase nueva entonces la mando a la carpeta de app
+2 - tocamos el composer.json
+3 - recargamos:
+composer dump-autoload
+4 - mandamos a testear
+vendor/phpunit/phpunit/phpunit tests --color

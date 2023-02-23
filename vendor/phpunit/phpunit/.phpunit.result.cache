@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"PruebaTest::test_prueba":5,"PruebaTest::prueba":5,"PruebaTest::ComprobarUnoesUno":4,"PruebaTest::ComprobarUnoesUno_Bien":4},"times":{"Warning":0.006,"PruebaTest::test_prueba":0.01,"PruebaTest::prueba":0.011,"PruebaTest::ComprobarUnoesUno":0.016,"PruebaTest::ComprobarUnoesUno_Bien":0.008}}
